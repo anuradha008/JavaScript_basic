@@ -13,7 +13,11 @@ console.log("22")
 // null =>standalone value
 // undefined =>
 
+
 console.log(typeof "Hello") //String
 console.log(typeof 23) //number
 console.log(typeof null) // object
 console.log(typeof undefined) //undefined
+
+
+
